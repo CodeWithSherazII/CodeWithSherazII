@@ -11,12 +11,13 @@
 ###
 
 <p align="left">
-With 3+ years of experience in Android and Flutter development, I specialize in building efficient, user-friendly applications. 
-From developing dynamic mobile and TV apps to implementing advanced computer vision solutions, I focus on delivering impactful results.<br><br>
-Beyond coding, I bring creativity through my background in UI/UX design, graphic designing, and video editing, adding a unique touch to my projects.<br><br>
-Check out my <a href="https://sheraz.appiversal.com" target="_blank">portfolio</a>.<br><br>
-I'm always exploring new technologies and seeking exciting opportunities to grow.
+🚀 With over 3 years of experience in Android and Flutter development, I craft intuitive, high-performance applications designed to deliver real impact. <br><br>
+📱 From feature-rich mobile and TV apps to intelligent solutions powered by advanced technologies, I thrive on building products that solve real-world problems. <br><br>
+🎨 Backed by a creative background in UI/UX design, graphic designing, and video editing, I blend technical expertise with visual storytelling to create engaging user experiences. <br><br>
+🔒 While my professional repositories remain private due to company policies, you can explore my skills, projects, and creative work through my <a href="https://sheraz.appiversal.com" target="_blank">portfolio</a>.<br><br>
+💡 I'm constantly exploring new technologies and seeking opportunities to create, innovate, and grow.
 </p>
+
 
 ###
 
