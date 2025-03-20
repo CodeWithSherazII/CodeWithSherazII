@@ -18,11 +18,6 @@ Check out my <a href="https://sheraz.appiversal.com" target="_blank">portfolio</
 I'm always exploring new technologies and seeking exciting opportunities to grow.
 </p>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/CodeWithSherazII/CodeWithSherazII/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -52,6 +47,10 @@ I'm always exploring new technologies and seeking exciting opportunities to grow
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/CodeWithSherazII/CodeWithSherazII/output/snake.svg" alt="Snake animation" />
 
 ###
 
